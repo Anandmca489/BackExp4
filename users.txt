@@ -1,0 +1,3 @@
+{"name":"Anand Kumar","email":"anadkumar532@gmail.com","password":"29546123"}
+{"name":"aka","email":"akashvns9532@gmail.com","password":"ui98ujin"}
+{"name":"Anand Kumar","email":"23MCA20489@cuchd.in","password":"Anand246#@"}
